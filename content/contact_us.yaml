@@ -1,0 +1,31 @@
+
+  - id: "97c7-4a36-9b4c"
+    web:
+      metaDescription: "Choose 380 West Animal Hospital in McKinney, TX for your pet care provider! We treat cats, dogs & other small animals. Call today!"
+      metaTitle: "Pet Doctor in McKinney, TX"
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 5
+      listed: true
+    data:
+      address_one: "380 West Animal Hospital"
+      address_three: "McKinney TX 75071 US\t"
+      address_two: "4701 West University Drive"
+      general_info_one: "For general information, questions, appointment requests, contact us at:"
+      general_info_three: null
+      general_info_two: "<a target=\"_blank\" href=\"https://www.proplanvetdirect.com/customer/account/create/?to=clinic&clinic-id=NIE3E\"> <img width=\"225px\" style=\"border: 1px solid #000; padding: 5px;\" src=\"https://www.proplanvetdirect.com/skin/frontend/enterprise/p4c/images/logo_p4c.png\"></a>"
+      google_map_embed: "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13351.45659200182!2d-96.6759353!3d33.2176576!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6923f6b8d4531700!2s380+West+Animal+Hospital!5e0!3m2!1sen!2sus!4v1520524554874\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen></iframe>"
+      hours_title: "Hours"
+      main_image: "https://w4k7ml.media.zestyio.com/newfrontb.jpg"
+      page_title: "Contact Us"
+      phone_number_one: "Phone: (214) 544-7881<br/>\nEmail:<a href=\"mailto:info@380westanimalhospital.com\">info@380westanimalhospital.com</a>\n"
+      phone_number_two: null
+      special_hours_info: null

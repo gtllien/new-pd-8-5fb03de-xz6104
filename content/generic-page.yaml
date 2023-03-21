@@ -1,0 +1,39 @@
+
+  - id: "5c66-0145-b505"
+    web:
+      metaDescription: ""
+      metaTitle: "Privacy Policy"
+      metaLinkText: "Privacy Policy"
+      metaKeywords: ""
+      pathPart: "privacy-policy"
+      path: "/do-not-use/privacy-policy/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 1
+      listed: false
+    data:
+      content: ""
+      title: "Privacy Policy"
+  - id: "b1cd-04e2-0fa6"
+    web:
+      metaDescription: ""
+      metaTitle: "Terms of Use"
+      metaLinkText: "Terms of Use"
+      metaKeywords: ""
+      pathPart: "terms-of-use"
+      path: "/do-not-use/terms-of-use/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 2
+      listed: false
+    data:
+      content: ""
+      title: "Terms of Use"

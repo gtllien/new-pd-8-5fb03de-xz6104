@@ -1,0 +1,21 @@
+
+  - id: "2750-6132-670b"
+    web:
+      metaDescription: ""
+      metaTitle: "Testimonials"
+      metaLinkText: "Testimonials"
+      metaKeywords: ""
+      pathPart: "testimonials"
+      path: "/do-not-use/testimonials/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: ""
+      main_image: ""
+      page_title: "Testimonials"

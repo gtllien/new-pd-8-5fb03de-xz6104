@@ -1,0 +1,21 @@
+
+  - id: "7f8d-7231-ff5a"
+    web:
+      metaDescription: ""
+      metaTitle: "View My Pet's Medical Record"
+      metaLinkText: "View My Pet's Medical Record"
+      metaKeywords: ""
+      pathPart: "view-my-pet-s-medical-record"
+      path: "/view-my-pet-s-medical-record/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      body_text: "<p>Thank you for trusting us to be your partner in your pet's health. We are delighted you are part of our family at 380 West Animal Hospital.</p>\n<p>Beyond providing personalized veterinary care, we offer you two options to view your pet's medical info 24/7 and contact us to request appointments or prescription refills.</p>\n<p>Through our mobile PetPage app or online portal, you can easily:</p>\n<ul style=\"list-style-type: none;\">\n<li style=\"list-style-type: disc;\">View upcoming services due</li>\n<li style=\"list-style-type: disc;\">View scheduled appointments</li>\n<li style=\"list-style-type: disc;\">Request an appointment time or request a prescription refill</li>\n</ul>\n<p>To download the PetPage app:</p>\n<ol style=\"list-style-type: decimal;\">\n<li><a href=\"https://play.google.com/store/apps/details?id=com.allydvm.comet&amp;hl=en\" target=\"_blank\" rel=\"noopener\">Click here</a>&nbsp;to download the Google Play app or&nbsp;<a href=\"https://apps.apple.com/us/app/allyconnect/id920690093\" target=\"_blank\" rel=\"noopener\">click here</a>&nbsp;to download from the Apple Store&nbsp;(you must be using your mobile device in order to install the application).</li>\n<li>After you have installed and opened the app on your mobile device, click the \"Sign Up\" button on the home page of the app. Enter your email address, choose a password, and click the blue sign-up button.</li>\n<li>You will then be sent a confirmation email. Click the link in that email. Check your SPAM folder if you do not see the confirmation email in your inbox.</li>\n</ol>\n<p>To access pet records online (not on the smartphone app):</p>\n<ul style=\"list-style-type: none;\">\n<li style=\"list-style-type: disc;\">You can access your pet health records without a smartphone by&nbsp;<a href=\"https://connect.allydvm.com/pet/380_west/sign_up\" target=\"_blank\" rel=\"noopener\">clicking here</a>. You will need to sign up before logging in. Use your email address as your username.</li>\n</ul>"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-kitty-hide-young-under.jpg"
+      page_title: "View My Pet's Medical Record"

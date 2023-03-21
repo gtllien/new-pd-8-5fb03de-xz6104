@@ -1,0 +1,26 @@
+
+  - id: "ca82-a455-e7e6"
+    web:
+      metaDescription: ""
+      metaTitle: "Patient Forms"
+      metaLinkText: "Patient Forms"
+      metaKeywords: ""
+      pathPart: "patient-forms"
+      path: "/do-not-use/patient-forms/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      additional_fields: ""
+      body_text: ""
+      default_fields: "no_form"
+      download_form_note: ""
+      embedded_form_instrux: ""
+      main_image: ""
+      page_title: "Patient Forms"
+      send_form_to: "petclinic@email.com"

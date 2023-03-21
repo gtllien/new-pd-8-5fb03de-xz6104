@@ -1,0 +1,21 @@
+
+  - id: "0c09-e241-2c50"
+    web:
+      metaDescription: ""
+      metaTitle: "Promotions"
+      metaLinkText: "Promotions"
+      metaKeywords: ""
+      pathPart: "promotions"
+      path: "/do-not-use/promotions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 6
+      listed: false
+    data:
+      body_text: ""
+      main_image: ""
+      page_title: "Promotions"

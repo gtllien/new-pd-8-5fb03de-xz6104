@@ -1,0 +1,41 @@
+
+  - id: "44e9-5638-446f"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      font_awesome_icon: "facebook"
+      name: "Facebook"
+      url: "https://www.facebook.com/380WestAnimalHospital"
+  - id: "bcb2-8f05-a7e7"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      font_awesome_icon: "yelp"
+      name: "Yelp"
+      url: "https://www.yelp.com/biz/380-west-animal-hospital-mckinney"

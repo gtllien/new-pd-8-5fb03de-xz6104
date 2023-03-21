@@ -1,0 +1,22 @@
+
+  - id: "ef95-9b9e-ab08"
+    web:
+      metaDescription: ""
+      metaTitle: "Office Tour"
+      metaLinkText: "Office Tour"
+      metaKeywords: ""
+      pathPart: "office-tour"
+      path: "/about-us/office-tour/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://ddp2ys.media.zestyio.com/pet-kitten-lay-arms-out.jpg"
+      page_title: "Office Tour"
+      youtube_id: ""

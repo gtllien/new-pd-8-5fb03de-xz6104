@@ -1,0 +1,24 @@
+
+  - id: "3376-9bf6-872d"
+    web:
+      metaDescription: "380 West Animal Hospital is locally owned & has been serving since 2007. Call now for reliable care for your dog or cat."
+      metaTitle: "Animal Hospital in McKinney, TX "
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      background_pattern: "https://ddp2ys.media.zestyio.com/white-wood-background.jpeg"
+      homepage_title: "380 West Animal Hospital"
+      timeline_btn_links_to: "bfd5-f0ea-b850"
+      timeline_button_text: "Discover our services"
+      timeline_subtitle: "We offer the best care for pets of all ages"
+      timeline_title: "380 West Animal Hospital"

@@ -1,0 +1,139 @@
+
+  - id: "e8fc-45c2-b411"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 5
+      listed: true
+    data:
+      button_text: "Download Our App"
+      image: "https://ddp2ys.media.zestyio.com/pet-tech-girl-terrier.jpg"
+      image_caption: ""
+      image_title: "Pet Portal"
+      links_to: "7f8d-7231-ff5a"
+      sort_order: 5
+  - id: "d23a-cd4b-2969"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      button_text: "Meet The Team "
+      image: "https://w4k7ml.media.zestyio.com/newfrontb.jpg"
+      image_caption: ""
+      image_title: "380 West Animal Hospital"
+      links_to: "4bc2-20e1-2d82"
+      sort_order: 1
+  - id: "9dcf-0e11-17a8"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      button_text: "Our Office"
+      image: "https://ddp2ys.media.zestyio.com/pet-kitten-left-lay-cute.jpg"
+      image_caption: ""
+      image_title: "Office Tour"
+      links_to: "ef95-9b9e-ab08"
+      sort_order: 2
+  - id: "9d7a-d79e-2ce7"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      button_text: "Learn More"
+      image: "https://ddp2ys.media.zestyio.com/pet-boxer-puppy-lay-pillow-porkchop.jpg"
+      image_caption: ""
+      image_title: "Services"
+      links_to: "bfd5-f0ea-b850"
+      sort_order: 3
+  - id: "3fff-25ec-9fd7"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 4
+      listed: true
+    data:
+      button_text: "Clinic Information"
+      image: "https://ddp2ys.media.zestyio.com/cat-and-dog-sleeping-together.jpg"
+      image_caption: ""
+      image_title: "Contact Us"
+      links_to: "97c7-4a36-9b4c"
+      sort_order: 4
+  - id: "4841-7b56-90b8"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 6
+      listed: true
+    data:
+      button_text: "Order Your Medications Here"
+      image: "https://ddp2ys.media.zestyio.com/pet-sleepy-orange-kitty.jpg"
+      image_caption: ""
+      image_title: "Online Pharmacy"
+      links_to: "17-c6da38-85n2fq"
+      sort_order: 6

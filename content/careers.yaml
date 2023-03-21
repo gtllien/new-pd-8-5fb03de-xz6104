@@ -1,0 +1,21 @@
+
+  - id: "243e-d5ce-1501"
+    web:
+      metaDescription: ""
+      metaTitle: "Careers"
+      metaLinkText: "Careers"
+      metaKeywords: ""
+      pathPart: "careers"
+      path: "/do-not-use/careers/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: "<h4>&nbsp;</h4>"
+      main_image: ""
+      page_title: "Careers"

@@ -1,0 +1,67 @@
+
+  - id: "e4ab-212c-a78a"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      bubble_blurb: "380 West Animal Hospital was established in 2007 by Dr. Michael Shelton, he previously practiced medicine at Parker Animal and Bird Clinic for 10 years in Plano. Dr. Means previously practiced medicine at King Veterinary Clinic for 13 yrs. "
+      bubble_image: "https://w4k7ml.media.zestyio.com/yorkie-pup.jpg"
+      bubble_subtitle: ""
+      bubble_title: ""
+      sort_order: 1
+  - id: "022f-2ec5-1c58"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      bubble_blurb: "We hope to Serve the North Texas Community with Integrity &amp; Compassionate High-Quality Veterinary Care for small animals and pocket pets."
+      bubble_image: "https://w4k7ml.media.zestyio.com/cat-and-baby-picture.jpg"
+      bubble_subtitle: ""
+      bubble_title: ""
+      sort_order: 2
+  - id: "c1cc-f562-a93a"
+    web:
+      metaDescription: ""
+      metaTitle: ""
+      metaLinkText: ""
+      metaKeywords: ""
+      pathPart: ""
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 3
+      listed: true
+    data:
+      bubble_blurb: "At 380 West Animal Hospital, PC we care about your pets like they are our own. We are a family-oriented practice with highly experienced staff to meet your animal’s needs. We offer a full range of veterinary services, and more importantly, we offer compassion and love to your pets."
+      bubble_image: "https://w4k7ml.media.zestyio.com/Miniature_Schnauzer-picture.jpg"
+      bubble_subtitle: "We believe what sets us apart"
+      bubble_title: ""
+      sort_order: 3

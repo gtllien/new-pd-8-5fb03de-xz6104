@@ -1,0 +1,21 @@
+
+  - id: "875c-5d22-bcbf"
+    web:
+      metaDescription: ""
+      metaTitle: "Breeder Questions"
+      metaLinkText: "Breeder Questions"
+      metaKeywords: ""
+      pathPart: "breeder-questions"
+      path: "/do-not-use/breeder-questions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/do-not-use/"
+    meta:
+      sort: 99
+      listed: false
+    data:
+      body_text: ""
+      main_image: ""
+      page_title: "Breeder Questions"

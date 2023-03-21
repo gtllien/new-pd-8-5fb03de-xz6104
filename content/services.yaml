@@ -1,0 +1,21 @@
+
+  - id: "bfd5-f0ea-b850"
+    web:
+      metaDescription: "When you bring your dog or cat to 380 West Animal Hospital in McKinney, TX you can take comfort in knowing that they will receive the best care available."
+      metaTitle: "Dog & Cat Veterinarian in McKinney, TX"
+      metaLinkText: "Services"
+      metaKeywords: null
+      pathPart: "services"
+      path: "/services/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 2
+      listed: true
+    data:
+      body_text: "<p>We offer a full range of services to take care of your pets. We accept appointments and also see walk-ins each day. Our walk-in times vary, so please feel free to call ahead if you are able.</p>\n<ul>\n<li>Preventative Care &amp; Vaccinations</li>\n<li>In-House Diagnostics</li>\n<li>Hospitalization</li>\n<li>In-House Ultrasound</li>\n<li>Digital Radiology</li>\n<li>Spay/Neuter</li>\n<li>Soft tissue surgery</li>\n<li>Limited Orthopedic surgery</li>\n<li>Dental Care &amp; Prophylaxis</li>\n<li>Full Pharmacy</li>\n</ul>"
+      main_image: "https://ddp2ys.media.zestyio.com/pet-puppies-cute-three-fun.jpg"
+      page_title: "Our Services"

@@ -1,0 +1,21 @@
+
+  - id: "950a-e1b8-1efd"
+    web:
+      metaDescription: "380 West Animal Hospital in McKinney, TX  has been taking care of dogs, cats & other small animals since 2007. Call to schedule an\nappointment."
+      metaTitle: "Veterinary Clinic in McKinney, TX"
+      metaLinkText: "About Us"
+      metaKeywords: null
+      pathPart: "about-us"
+      path: "/about-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      body_text: null
+      main_image: "https://ddp2ys.media.zestyio.com/pet-right-cat-laying.jpg"
+      page_title: "About Us"

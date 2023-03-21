@@ -1,0 +1,51 @@
+
+  - id: "7020-b10b-595c"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+    data:
+      background_image: "https://ddp2ys.media.zestyio.com/pet-nature-cat-look-tabby.jpg"
+      background_video: null
+      button_text: null
+      horizontal_alignment_for_mobile: null
+      links_to: null
+      second_line: "We apologize for any inconvenience, <br>but we are no longer accepting new clients!"
+      sort_order: 2
+      title: null
+  - id: "246a-f7ba-e15a"
+    web:
+      metaDescription: ""
+      metaTitle: "Special Offers"
+      metaLinkText: "Special Offers"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      background_image: "https://w4k7ml.media.zestyio.com/yorkie-pup.rJJYwikYL.jpg"
+      background_video: ""
+      button_text: "Contact Us"
+      horizontal_alignment_for_mobile: "Center"
+      links_to: "97c7-4a36-9b4c"
+      second_line: "Call</br> (214) 544-7881"
+      sort_order: 1
+      title: "380 West Animal Hospital\t"

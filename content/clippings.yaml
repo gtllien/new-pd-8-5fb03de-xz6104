@@ -1,0 +1,28 @@
+
+  - id: "7745-f78e-8c5b"
+    web:
+      metaDescription: "Clippings"
+      metaTitle: "Clippings"
+      metaLinkText: "Clippings"
+      metaKeywords: ""
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 1
+      listed: true
+    data:
+      below_logo_text: ""
+      footer_text: "PetDesk with Zesty.io"
+      logo: ""
+      logo_height: "80"
+      petdesk_ref_code: "8c007b86-faa5-4c69-a206-ea6ec56486fd"
+      phone: "(214) 544-7881"
+      pop_up_content: ""
+      request_button_font_size: "18"
+      site_name: "380 West Animal Hospital"
+      telephone_number_height: "20"

@@ -1,0 +1,22 @@
+
+  - id: "4bc2-20e1-2d82"
+    web:
+      metaDescription: ""
+      metaTitle: "Meet the Team"
+      metaLinkText: "Meet the Team"
+      metaKeywords: ""
+      pathPart: "meet-the-team"
+      path: "/about-us/meet-the-team/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/about-us/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      body_text: ""
+      main_image: "https://ddp2ys.media.zestyio.com/puppies-black-brown-labrador-circle.jpeg"
+      number_of_cols: "4"
+      page_title: "Meet the Team"
